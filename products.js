@@ -1,6 +1,6 @@
 const products = [
   {
-    id: 'price_1JAE9cEy9j6mAC9ettoD2R0D',
+    id: 'price_1MsytiBdzuxqkmxgRi72NWdP',
     name: 'Kentiapalm (L)',
     price: 3995,
     currency: 'USD',
@@ -11,7 +11,7 @@ const products = [
     },
   },
   {
-    id: 'price_1JAEABEy9j6mAC9eYTnD6Rv7',
+    id: 'price_1MsyuWBdzuxqkmxg9tlP3d57',
     name: 'Monstera Deliciosa (L)',
     price: 5995,
     currency: 'USD',
